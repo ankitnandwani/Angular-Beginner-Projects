@@ -1,0 +1,9 @@
+<h2>Templates</h2>
+
+<div class="row organ">
+    <div class="col-md-4" ng-repeat="temp in temps">
+      <h4>{{temp.name}}</h4>
+      <img ng-src={{temp.images[0].url}}>
+      <a href="#!/templates/{{temp.id}}" class="btn btn-primary btn-block">View Details</a>
+    </div>
+</div>

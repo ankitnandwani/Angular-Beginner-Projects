@@ -1,0 +1,113 @@
+[
+  {
+    "id":1,
+    "name": "Purple Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 9.99,
+    "images": [
+        {
+          "url": "https://www.overclockers.co.uk/media/image/thumbnail/FS1APOG_202633_800x800.jpg"
+        },
+        {
+          "url": "https://www.cclonline.com/images/avante/CIT-F3BLACKPURPLE.jpg"
+        },
+        {
+          "url": "https://www.ekwb.com/wp-content/uploads/2016/11/2016_oct_2a-1500x1000.jpg"
+        },
+        {
+          "url": "https://www.chillblast.com/images/product/Arrow_purple_1a.jpg"
+        }
+      ]
+  },
+  {
+    "id":2,
+    "name": "Orange Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 19.99,
+    "images": [
+        {
+          "url": "https://d3fa68hw0m2vcc.cloudfront.net/ba7/156624540.jpeg"
+        },
+        {
+          "url": "http://cdn.ndtv.com/tech/gadgets/predator_orange_acer.jpg"
+        }
+      ]
+  },
+  {
+    "id":3,
+    "name": "Pink Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 29.99,
+    "images": [
+        {
+          "url": "https://i5.walmartimages.com/asr/782d3706-ed42-4736-9bc7-d7a9b5937fed_1.db05bc3ac3a73086d6e2881ff3b4a946.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        }
+      ]
+  },
+  {
+    "id":4,
+    "name": "Red Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 39.99,
+    "images": [
+        {
+          "url": "https://tshop.r10s.com/ffc/9c3/d1d3/1871/601e/6946/de4a/11efe88890a81e84d032c4.png"
+        }
+      ]
+  },
+  {
+    "id":5,
+    "name": "Green Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 49.99,
+    "images": [
+        {
+          "url": "https://www.eteknix.com/wp-content/uploads/2015/12/Screenshot_218-800x615.jpg"
+        }
+      ]
+  },
+  {
+    "id":6,
+    "name": "Blue Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 59.99,
+    "images": [
+        {
+          "url": "https://www.awd-it.co.uk/images/detailed/20/citcsflashblkblue.jpg"
+        }
+      ]
+  },
+  {
+    "id":7,
+    "name": "Yellow Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 69.99,
+    "images": [
+        {
+          "url": "http://i.ebayimg.com/images/i/271213855693-0-1/s-l1000.jpg"
+        }
+      ]
+  },
+  {
+    "id":8,
+    "name": "Black Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 79.99,
+    "images": [
+        {
+          "url": "https://sta3-nzxtcorporation.netdna-ssl.com/uploads/product_image/image/511/large_94818c3c83199d53.png"
+        }
+      ]
+  },
+  {
+    "id":9,
+    "name": "White Template",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus purus, convallis nec eleifend id, vestibulum vel enim. Nullam malesuada, magna ac sodales bibendum, mi urna venenatis odio, sit amet bibendum felis urna vitae purus. Phasellus mauris quam, fermentum sed ornare et, semper a lacus. Nulla eu congue felis, non laoreet magna. Praesent quam neque, molestie vel suscipit efficitur, luctus sed arcu. Pellentesque lobortis venenatis ante, vel egestas lorem ornare eu. Pellentesque tellus quam, varius nec sapien a, tempor tristique velit. Fusce luctus interdum porttitor.",
+    "price": 89.99,
+    "images": [
+        {
+          "url": "https://sta3-nzxtcorporation.netdna-ssl.com/uploads/product_image/image/463/large_5182e1cd5301c056.png"
+        }
+      ]
+  }
+]
